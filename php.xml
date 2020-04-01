@@ -1,18 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-    <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
-    </phpcs_settings>
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="4a97eee5-e6c9-49f2-93f6-914bdbc20705" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.7/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">

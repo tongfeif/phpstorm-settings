@@ -1,5 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -15,6 +20,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="32b8d02b:16488039022:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>

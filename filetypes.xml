@@ -2,7 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="PLAIN_TEXT" />
-      <mapping ext="wpy" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue.js" />
+      <removed_mapping ext="wpy" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

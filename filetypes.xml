@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
+      <removed_mapping ext="wxss" approved="true" type="WXSS" />
       <removed_mapping ext="wpy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="wxss" approved="true" type="WXSS" />
     </extensionMap>
   </component>
 </application>

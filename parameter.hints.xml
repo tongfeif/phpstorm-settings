@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Eloquent.offset(value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

@@ -41,9 +41,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="150" />
+    <option name="RIGHT_MARGIN" value="300" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
-    <option name="SOFT_MARGINS" value="150" />
+    <option name="SOFT_MARGINS" value="300" />
   </codeStyleSettings>
 </code_scheme>

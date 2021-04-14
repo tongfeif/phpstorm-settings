@@ -5,7 +5,6 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
-    <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />

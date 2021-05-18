@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="lbi" type="PLAIN_TEXT" />
+      <mapping ext="htaccess" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <removed_mapping ext="wpy" approved="true" type="PLAIN_TEXT" />
